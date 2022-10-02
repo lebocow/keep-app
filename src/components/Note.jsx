@@ -1,6 +1,5 @@
 import React from "react";
 import DeleteIcon from "@mui/icons-material/Delete";
-import { Fade } from "@mui/material";
 
 function Note(props) {
   function handleClick() {
